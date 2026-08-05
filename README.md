@@ -63,7 +63,7 @@ Sentiment analysis and topic modelling on Indonesian TikTok comments using IndoB
 
 `IndoBERT` `BERTopic` `Sentiment Analysis`
 
-[📄 Paper](ADD_IEEE_LINK) · [💻 Repo](https://github.com/lostmys3lf/maternal-health-sentiment-topics)
+[📄 Paper](https://ieeexplore.ieee.org/abstract/document/11087326/) · [💻 Repo](https://github.com/lostmys3lf/maternal-health-sentiment-topics)
 
 ### voice-agent-engine
 Reusable real-time voice agent (Streamlit + WebRTC speech-to-speech). Swap a config file to change the use case; ships with a sales-roleplay reference scenario.
