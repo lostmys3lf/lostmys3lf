@@ -4,7 +4,7 @@
 
 ### Data Scientist & AI Engineer
 
-Based in Bandung, Indonesia
+Based in Padang, Indonesia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mardijefri)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardijefriprofesional@gmail.com)
