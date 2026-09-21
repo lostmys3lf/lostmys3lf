@@ -64,12 +64,10 @@ I build NLP and LLM systems end to end: retrieval pipelines, fine-tuned models, 
 
 ## 📌 Selected Work
 
-### Enterprise Social Media Analytics PoC
-*Client confidential*
+### Agentic-Fraud-and-Anomaly-Detection
+An end-to-end agentic investigation pipeline for telco fraud
 
-A 6-stage pipeline covering data acquisition and filtering, topic clustering, virality scoring, fact-checking, decision intelligence, and recommendation. Topic clustering runs on a self-hosted Qwen2.5-3B-Instruct-AWQ model; virality scoring uses dynamic percentile thresholds with LLM-generated narration.
-
-`FastAPI` `Elasticsearch` `Qwen2.5` `LLM`
+`RandomForest` `ChromaDB` `LangGraph` `MlFLow` `Docker`
 
 ### Sentiment-Aware Feature Recommendations for Maternal Mental-Health Apps
 *IEEE published, first author*
