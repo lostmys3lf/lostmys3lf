@@ -69,6 +69,8 @@ An end-to-end agentic investigation pipeline for telco fraud
 
 `RandomForest` `ChromaDB` `LangGraph` `MlFLow` `Docker`
 
+[💻 Repo](https://github.com/lostmys3lf/Agentic-Fraud-and-Anomaly-Detection)
+
 ### Sentiment-Aware Feature Recommendations for Maternal Mental-Health Apps
 *IEEE published, first author*
 
